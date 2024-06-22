@@ -42,11 +42,11 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="DotaStone"
+              title="DotaJet"
               description="Prototype framework for a Dota2 coaching and information website. Allows players to sign up, store data, be paired with a coach in order to improve 
-              their technical skills. Implenting using HTML, JS, CSS and a middleware vercel template."
-              ghLink="https://github.com/williamjess/l"
-              demoLink="https://l-two-brown.vercel.app/"
+              their technical skills. Implented using Nextjs, TypeScript, JavaScript, TailWind for CSS, and Vercel. "
+              ghLink="https://github.com/williamjess/DotaJet"
+              demoLink="https://dota-jet.vercel.app/"
             />
           </Col>
 
