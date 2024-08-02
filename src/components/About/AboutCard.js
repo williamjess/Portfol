@@ -20,7 +20,7 @@ function AboutCard() {
             <br />    
             <p>I'm a Computer Science graduate from Ulster University, and I'm currently open to full-time roles at Junior or Entry-Level.</p>
             <br />
-            Feel free to review my tech stack below and visit my <span className="purple"> Github</span> profile to assess my fit for any role.
+            Feel free to review my tech stack below and visit my <a href="https://github.com/williamjess" ><span className="purple"> Github</span> profile to assess my fit for any role.
           </h3>
         </blockquote>
       </Card.Body>
