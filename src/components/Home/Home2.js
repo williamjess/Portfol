@@ -28,7 +28,7 @@ function Home2() {
              
               <br />I'm proficient in 
               <i>
-                <b className="purple"> Javascript and Python </b>
+                <b className="purple"> Python, TypeScript, and Java.  </b>
               </i>
               <br />
               <br />
@@ -37,13 +37,14 @@ function Home2() {
                 <b className="purple">Full Stack Development </b> and
                  anything related to {" "}
                 <b className="purple">
-                  Data Engineering and Blockchain Development.
+                  Data Engineering and Analysis. 
+                
                 </b>
               </i>
               <br />
               <br />
               My private interests are 
-             <i> <b className="purple">Fitness,</b> </i>
+             <i> <b className="purple">Fitness, Cybersecurity, </b> </i>
               <i>
                 <b className="purple">
                   {" "}
