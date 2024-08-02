@@ -18,7 +18,7 @@ function AboutCard() {
            <p> Hi, I'm <span className="purple">William Jess </span>
             from <span className="purple"> Belfast, Northern Ireland.</span> </p>
             <br />    
-            <p>I'm a Computer Science graduate from Ulster University.</p>
+            <p>I'm a Computer Science graduate from Ulster University, and I'm currently open to full-time roles at Junior or Entry-Level.</p>
             <br />
             I make <span className="purple"> fullstack applications</span>, and am currently open to full time roles.
           </h3>
