@@ -26,9 +26,9 @@ function Home2() {
             <p className="home-about-body">
            
              
-              <br />I'm proficient in 
+              <br />I'm currently working as a 
               <i>
-                <b className="purple"> Site Operations Engineer </b>
+                <b className="purple"> Site Operations Engineer. </b>
               </i>
               <br />
               <br />
@@ -37,7 +37,7 @@ function Home2() {
                 <b className="purple">Cloud Technology, </b> and
                  anything related to {" "}
                 <b className="purple">
-                  Systems Engineering and Databases, with a prefernce towards healthcare. 
+                  Systems Engineering and Databases, with preferences towards healthcare and finance. 
                 
                 </b>
               </i>
