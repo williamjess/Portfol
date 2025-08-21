@@ -28,27 +28,27 @@ function Home2() {
              
               <br />I'm proficient in 
               <i>
-                <b className="purple"> Python, TypeScript, and Java.  </b>
+                <b className="purple"> Site Operations Engineer </b>
               </i>
               <br />
               <br />
-              My interests are  &nbsp;
+              My professional interests are  &nbsp;
               <i>
-                <b className="purple">Full Stack Development </b> and
+                <b className="purple">Cloud Technology, </b> and
                  anything related to {" "}
                 <b className="purple">
-                  Data Engineering and Analysis. 
+                  Systems Engineering and Databases, with a prefernce towards healthcare. 
                 
                 </b>
               </i>
               <br />
               <br />
               My private interests are 
-             <i> <b className="purple">Fitness, Cybersecurity, </b> </i>
+             <i> <b className="purple">Fitness, Volunteering, </b> </i>
               <i>
                 <b className="purple">
                   {" "}
-                  Fintech,
+                  Esports,
                 </b>
               </i>
               &nbsp; and 
