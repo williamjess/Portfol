@@ -21,9 +21,9 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are some projects I've made recently. 
+          Here are some developer projects I've made in the past, mostly focused on fullstack and AI tools.
           <br></br>
-          I always have something in the works though.
+          I always have something new in the works though.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
