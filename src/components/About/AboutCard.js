@@ -33,7 +33,7 @@ function AboutCard() {
               >
                 <span className="purple">Github</span>
               </a>{" "}
-              profile, or send me a message via email or linkedin to assess my fit for any role.
+              profile, or send me a message via email or linkedin to assess my fit for any role. 
             </p>
           </h3>
         </blockquote>
