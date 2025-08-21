@@ -24,6 +24,12 @@ function AboutCard() {
 
             <br />
 
+    <p>
+              Comfortable in Azure, AWS & GCP environments, and experienced in Linux, Docker, C#, Python, SQL Server and more.
+            </p>
+
+            <br />
+
             <p>
               Feel free to review my tech stack below and visit my{" "}
               <a
@@ -33,7 +39,7 @@ function AboutCard() {
               >
                 <span className="purple">Github</span>
               </a>{" "}
-              profile, or send me a message via email or linkedin to assess my fit for any role. 
+              profile, or send me a message via email or linkedin to assess my fit for a role!
             </p>
           </h3>
         </blockquote>
