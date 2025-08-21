@@ -18,8 +18,8 @@ function AboutCard() {
             <br />
 
             <p>
-              I'm a Computer Science graduate from Ulster University, and I'm
-              currently open to full-time roles at Junior or Entry-Level.
+              I'm a Site Operations Engineer currently working at ESO, and I'm interested
+              in SRE, Cloud Operations Engineer and Systems Engineer roles.
             </p>
 
             <br />
@@ -33,7 +33,7 @@ function AboutCard() {
               >
                 <span className="purple">Github</span>
               </a>{" "}
-              profile to assess my fit for any role.
+              profile, or send me a message via email or linkedin to assess my fit for any role.
             </p>
           </h3>
         </blockquote>
